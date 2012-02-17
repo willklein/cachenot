@@ -1,0 +1,12 @@
+<html>
+<script type="text/javascript">
+chrome.browserAction.setPopup({ popup: "confirm.html" });
+
+chrome.browserAction.onClicked.addListener(function () {
+    chrome.experimental.clear.browsingData(
+        "everything",
+        { cache: true }
+    );
+});
+</script>
+</html>

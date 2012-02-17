@@ -1,0 +1,13 @@
+{
+    "name": "cacheNot",
+    "version": "1.0",
+    "description": "Clear your cache with one click. Relies on experimental APIs which must be enabled.",
+    "icons": { "128": "icon128.png" },
+    "browser_action": {
+        "default_icon": "bin.png"
+    },
+    "permissions": [
+        "experimental"
+    ],
+    "background_page": "background.html"
+}
