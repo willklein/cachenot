@@ -17,7 +17,5 @@ point. My intent is to provide this as a tool for developers to use when
 annoying cache issues arise (particularly JavaScript files).
 
 Find the latest at: https://github.com/WillsLab/cachenot
-Follow me on Twitter: @willsLab
 
-For support, suggestions, etc, email me at "will at willslab d0t com" (pathetic
-attempt to obscure spambots, I know). 
+Follow me on Twitter for updates and whatnot: @willsLab
